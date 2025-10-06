@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/news/article-:id/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
+
